@@ -1,7 +1,7 @@
-################ CSC258H1F Fall 2022 Assembly Final Project ##################
-# This file contains our implementation of Breakout.
+################ Assembly Breakout ##################
+# This file contains My implementation of Breakout.
 #
-# Student 1: Sheldon Dacon
+# By: Sheldon Dacon
 ######################## Bitmap Display Configuration ########################
 # - Unit width in pixels:       8
 # - Unit height in pixels:      8
